@@ -1,0 +1,31 @@
+.Key {
+    border-radius: 50%;
+    margin: 5%;
+    font-size: 30px;
+    border: none;
+}
+
+.Key:active {
+    outline: none;
+    background-color: grey;
+}
+
+.Key:focus {
+    outline: none;
+}
+
+.Operation {
+    color: green;
+}
+
+.Pressed {
+    background-color: hotpink;
+}
+
+.Eval {
+    background-color: rgb(97, 245, 97);
+}
+
+.Clear {
+    color: red;
+}

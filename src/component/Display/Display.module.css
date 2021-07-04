@@ -1,0 +1,10 @@
+.Display {
+    grid-column-start: 1;
+    grid-column-end: -1;
+    font-size: 50px;
+    border: 1px solid black;
+    margin-top:1px;
+    text-align: end;
+    line-height: 140%;
+    padding: 10px;
+}
